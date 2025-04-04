@@ -1,5 +1,10 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Evgeniy",
+            "surname": "Getman",
+            "photo_url": "https://static.vecteezy.com/system/resources/thumbnails/036/324/708/small/ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg"
+        }
     ]
 }
