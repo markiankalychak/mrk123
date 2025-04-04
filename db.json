@@ -14,7 +14,12 @@
         }
     ],
     "products": [
-        
+        {
+            "name": "GameSir Super Nova Multiplatform Game Controller",
+            "description": "Enhanced Multiplatform wireless game controller",
+            "photo_url": "https://gamesir.com/cdn/shop/files/2_ef5a261f-3b0e-4da5-89e1-3b4af2a4dedc.png?v=1741246817&width=990",
+            "price": 49.99
+        }
     ]
 }
 
