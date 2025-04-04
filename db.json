@@ -14,7 +14,12 @@
         }
     ],
     "products": [
-        
+        {
+            "name": "ASUS ROG Strix G15 G513RM (G513RM-HF007W)",
+            "description": "Серія ASUS ROG Strix, Операційна система, Windows 11 Home,Частота оновлення екрану,300, Дозвіл екрану, 1920x1080 FullHD, Серія процесора, AMD Ryzen 7 6800H, Процессор AMD Ryzen 7 6800H",
+            "photo_url": "https://i.ytimg.com/vi/weU1pYsMnRk/maxresdefault.jpg",
+            "price": 1170
+        }
     ]
 }
 
