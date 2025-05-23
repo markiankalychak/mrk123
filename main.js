@@ -16,10 +16,11 @@ function addCard(productData) {
         name,
         description,
         photo_url,
-        price
+        price,
+        seller_id
     } = productData;
 
-    console.log(name, description, photo_url, price);
+    console.log(productData);
 
     const template = `
         <div class="product">
@@ -29,7 +30,7 @@ function addCard(productData) {
             <span class="product__price">
                 ${price}
             </span>
-            <a href="/seller/index.html?id=0">Seller Page</a>
+            <a href="/seller/index.html?id=${seller_id}">Seller Page</a>
             <button class="product__button">Buy</button>
         </div>
     `;

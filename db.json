@@ -19,13 +19,14 @@
             "description": "Серія ASUS ROG Strix, Операційна система, Windows 11 Home,Частота оновлення екрану,300, Дозвіл екрану, 1920x1080 FullHD, Серія процесора, AMD Ryzen 7 6800H, Процессор AMD Ryzen 7 6800H",
             "photo_url": "https://i.ytimg.com/vi/weU1pYsMnRk/maxresdefault.jpg",
             "price": 1170,
-            "seller_id":0
+            "seller_id": 0
         },
         {
             "name": "GameSir Super Nova Multiplatform Game Controller",
             "description": "Enhanced Multiplatform wireless game controller",
             "photo_url": "https://gamesir.com/cdn/shop/files/2_ef5a261f-3b0e-4da5-89e1-3b4af2a4dedc.png?v=1741246817&width=990",
-            "price": 49.99
+            "price": 49.99,
+            "seller_id": 1
         }
     ]
 }
